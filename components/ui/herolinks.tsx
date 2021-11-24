@@ -9,7 +9,7 @@ const HeroLinks = (props) => (
         rel="noopener noreferrer"
       >
         <span className="material-icons">share</span> Add more by contributing
-        to the project
+        abc to the project
       </a>
     </div>
   </div>
