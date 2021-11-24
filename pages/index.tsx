@@ -9,7 +9,7 @@ const Index = props => (
     desc="Collection of opensource libraries and frameworks and web and mobile tools to develop and make a project easily"
   >
     <div key="1" className="hero">
-      <h1>Discover new ways to build things </h1>
+      <h1>Discover new ways abc to build things </h1>
       <p>
         Framestack is a free collection of frameworks/libraries and tools to
         build your next project without the hassle and in a record time{" "}
